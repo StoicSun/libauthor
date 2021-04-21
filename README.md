@@ -11,6 +11,11 @@ or
 ```
 poetry install
 ```
+Then-
+```
+cd libauthor
+python main.py
+```
 
 ## Usage 
 Fairly basic just follow the prompts and press enter(⏎) when you want to use the default option.  
