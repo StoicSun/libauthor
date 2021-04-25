@@ -1,6 +1,7 @@
 # Libauthor 📔️
 
-Download books from an author in bulk.
+Download books from an author in bulk.  
+Thanks to harrison-broadbent for making [libgen-api](https://github.com/harrison-broadbent/libgen-api)
 
 ## Getting Started 
 Install the following packages- 
